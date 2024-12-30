@@ -1,4 +1,6 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+### Ex 5 ENCODER 8TO3 DATAFLOW Modelling
+
+### Date 24/10/2024
 
 **AIM:**
 
